@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guia Financeiro</string>
+
+    <string name="msg_sucesso">Operação realizada com sucesso</string>
+    <string name="msg_erro">Ocorreu algum erro, por favor, refaça a operação</string>
+    <string name="msg_cancelamento">Operação cancelada</string>
+    <string name="campos_obrigatorios">Campos obrigatórios não preenchidos</string>
+</resources>
